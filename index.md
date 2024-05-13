@@ -4,7 +4,7 @@ layout: page
 
 <!-- # About Me -->
 
-<img src="https://llianglxu.github.io/llxu.jpg" class="floatpic" width="360" height="480">
+<!-- <img src="https://llianglxu.github.io/llxu.jpg" class="floatpic" width="360" height="480"> -->
 
 <!-- Here is **Liangliang Xu (徐亮亮)**. -->
 <!--  -->
