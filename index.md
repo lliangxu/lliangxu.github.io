@@ -6,18 +6,18 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Liangliang Xu (徐亮亮)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+Liangliang Xu is currently an associate professor at [Xidian University](https://en.xidian.edu.cn/). He received his Ph.D. degree in the School of Computer Science and Technology under the supervision of Prof. [Yinlong Xu](http://cs.ustc.edu.cn/2020/0828/c23235a460084/page.htm) and associate Prof. [Min Lyu](http://cs.ustc.edu.cn/2020/0906/c23239a460125/page.htm) at University of Science and Technology of China. He has published several papers in top conferences and journals of storage systems, including INFOCOM, ICPP, IPDPS, HotStorage, HotOS, TIT,  TC, TPDS and JPDC. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+His research interests include designing and building dependable techniques (theory + system), e.g., erasure coding (RS/LRC/MSR codes, etc), for distributed persistent/caching(in-memory) storage systems.
 
-## Academic Background
 
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+## Education
+
+- *2019.09 - 2022.06*:    **Ph.D. degree, Computer Science**; [ADSL](https://adsl.ustc.edu.cn) lab, University of Science and Technology of China (Advisors: Prof. [Yinlong Xu](http://cs.ustc.edu.cn/2020/0828/c23235a460084/page.htm) & associate Prof.  [Min Lyu](http://cs.ustc.edu.cn/2020/0906/c23239a460125/page.htm)).
+- *2017.09 - 2019.08*:    **M.S. degree, Computer Science**; [ADSL](https://adsl.ustc.edu.cn) lab, University of Science and Technology of China (Advisors: Prof. [Yinlong Xu](http://cs.ustc.edu.cn/2020/0828/c23235a460084/page.htm) & associate Prof.  [Min Lyu](http://cs.ustc.edu.cn/2020/0906/c23239a460125/page.htm)).
+- *2013.09 - 2017.06*:   **B.S. degree, Information and Computer Science**; GPA: 3.69/4.0; Anhui University ( Advisor: Prof. [Minjia Shi](https://scholar.google.com/citations?user=kBajA4AAAAAJ&hl=zh-CN)).
 
 ---
 
