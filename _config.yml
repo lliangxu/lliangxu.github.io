@@ -7,7 +7,7 @@ url: https://lliangxu@github.io
 # Owner/author information
 owner:
   name: Liangliang Xu
-  avatar: caihanlin.jpg
+  avatar: llxu.png
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: xuliangliang@xidian.edu.cn, llxu@mail.ustc.edu.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -36,12 +36,12 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 
     url: /
   - title: Teams
     url: /teams/
-  - title: Publications
-    url: /publications/
+  - title: Publication
+    url: /publication/
   - title: Awards
     url: /awards/
   - title: Hobbies
