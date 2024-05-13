@@ -35,19 +35,19 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: About Me
-    url: /
-  - title: Teams
-    url: /teams/
-  - title: Publication
-    url: /publication/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+# links:
+#   - title: About Me
+#     url: /
+#   - title: Teams
+#     url: /teams/
+#   - title: Publication
+#     url: /publication/
+#   - title: Awards
+#     url: /awards/
+#   - title: Hobbies
+#     url: /hobbies/
+#   - title: Blogs
+#     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Xian
