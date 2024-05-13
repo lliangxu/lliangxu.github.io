@@ -7,7 +7,7 @@ url: https://lliangxu@github.io
 # Owner/author information
 owner:
   name: Liangliang Xu
-  avatar: llxu.png
+  avatar: llxu.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: xuliangliang@xidian.edu.cn, llxu@mail.ustc.edu.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -35,19 +35,21 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # Links to include in top navigation
 # For external links add external: true
-# links:
-#   - title: About Me
-#     url: /
-#   - title: Teams
-#     url: /teams/
-#   - title: Publication
-#     url: /publication/
-#   - title: Awards
-#     url: /awards/
-#   - title: Hobbies
-#     url: /hobbies/
-#   - title: Blogs
-#     url: /blogs/
+links:
+  - title: About Me
+    url: /
+  - title: Education
+    url: /education/
+  - title: Work Experience
+    url: /work/
+  - title: Selected Projects
+    url: /project/
+  - title: Publication
+    url: /publication/
+    - title: Talks
+    url: /talks/
+      - title: Services
+    url: /services/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Xian
