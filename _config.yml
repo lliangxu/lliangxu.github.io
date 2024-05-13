@@ -46,9 +46,9 @@ links:
     url: /project/
   - title: Publication
     url: /publication/
-    - title: Talks
+  - title: Talks
     url: /talks/
-      - title: Services
+  - title: Services
     url: /services/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
