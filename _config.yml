@@ -48,8 +48,8 @@ links:
     url: /publication/
   - title: Talks
     url: /talks/
-  - title: Services
-    url: /services/
+  # - title: Services
+  #   url: /services/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Xian

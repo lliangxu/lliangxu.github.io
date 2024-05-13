@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /talk/index.html
-title: talk
+permalink: /talks/index.html
+title: Talks
 ---
 
 Talks
