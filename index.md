@@ -44,7 +44,7 @@ Selected Projects
    - I solve the open problems about algebraic codes, moreover, I work out the diophantine problem and then give the sufficient conditions for the nonexistence of two-Lee weight projective codes over Z<sub>4</sub> with type 4<sup>k<sub>1</sub></sup>2<sup>k<sub>2</sub></sup>. 
 
 Publications
-----------
+--------------------
 
 1. **A Note on One Weight and Two Weight Projective Z<sub>4</sub>-codes.**   
    Minjia Shi, **Liangliang Xu**, and Gang Yang.
