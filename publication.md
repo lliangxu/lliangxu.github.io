@@ -7,10 +7,10 @@ title: Publication
 Publications
 ----------
 
-1. **A Note on One Weight and Two Weight Projective Z<sub>4</sub>-codes.**   
+[1] **A Note on One Weight and Two Weight Projective Z<sub>4</sub>-codes.**   
    Minjia Shi, **Liangliang Xu**, and Gang Yang.
    IEEE Transactions on Information Theory (TIT 2017), 63.1: 177-182. 
-2. **D<sup>3</sup>: Deterministic Data Distribution for Efficient Data Reconstruction in Erasure-Coded Distributed Storage Systems.**   
+[2] **D<sup>3</sup>: Deterministic Data Distribution for Efficient Data Reconstruction in Erasure-Coded Distributed Storage Systems.**   
    Zhipeng Li, Min Lv, Yinlong Xu, Yongkun Li and **Liangliang Xu**.
    The 33rd IEEE International Parallel & Distributed Processing Symposium (IPDPS 2019).
 3. **PDL: A Data Layout towards Fast Failure Recovery for Erasure-coded Distributed Storage Systems.**
