@@ -13,12 +13,6 @@ layout: page
 His research interests include designing and building dependable techniques (theory + system), e.g., erasure coding (RS/LRC/MSR codes, etc), for distributed persistent/caching(in-memory) storage systems.
 
 
-Work Experience
-----------
-- *2024.04 - now*:  **Associate Professor - Xidian University**
-- *2022.08 - 2024.04*:  **Research Scientist - Huawei Cloud**
-- *2020.10 - 2021.01*: **Software Engineer Intern - Huawei CloudBU**
-
 
 <!-- Skills
 --------------------
