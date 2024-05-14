@@ -9,6 +9,7 @@ owner:
   name: Liangliang Xu
   avatar: llxu.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
+  timezone: China/Xian
   email: xuliangliang@xidian.edu.cn, llxu@mail.ustc.edu.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -40,8 +41,8 @@ links:
     url: /
   - title: Education
     url: /education/
-  - title: Work Experience
-    url: /work/
+  # - title: Work Experience
+  #   url: /work/
   - title: Selected Projects
     url: /project/
   - title: Publication
