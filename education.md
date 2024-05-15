@@ -19,4 +19,4 @@ title: Experience
 
 Services
 --------------------
-- Shadow PC at EuroSys 2023. -->
+- Shadow PC at EuroSys 2023.
