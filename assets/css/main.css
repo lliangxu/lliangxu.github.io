@@ -92,7 +92,7 @@ a:focus{outline:thin dotted;color:#343434;}
 a:hover,a:active{outline:0;}
 b,strong{font-weight:700;}
 ul li{list-style-type:square;}
-ol li{list-style-type:upper-roman;}
+ol li{list-style-type:lower-latin;}
 p>a,li>a,em>a,a>em,footer a{text-decoration:none;border-bottom:1px dotted #b3b3b1;}
 p>a:hover,li>a:hover,em>a:hover,footer a:hover{text-decoration:none;border-bottom:1px solid #b3b3b1;}
 figcaption{margin-top:0.75em;line-height:1.25;font-size:18px;font-size:1rem;margin-bottom:1.65rem;font-family:'PT Sans Narrow',sans-serif;counter-increment:captions;}figcaption:before{font-weight:700;text-transform:uppercase;content:"Figure " counter(captions) ": ";}
