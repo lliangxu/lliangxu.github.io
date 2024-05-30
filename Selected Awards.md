@@ -7,7 +7,7 @@ title: Selected Awards
 
 Selected Awards
 --------------------
-- Anhui Province excellent doctoral dissertation, Anhui Province (安徽省优秀博士论文), 2024
+- Anhui Province excellent doctoral dissertation, Anhui Province, 2024 (安徽省优秀博士论文)
 - Outstanding Graduate, USTC-CS, 2022
 - Excellent Award of President Scholarship, CAS, 2022 (中科院院长优秀奖，CN ￥ 5,000)
 - Outstanding Graduate, USTC, 2022 (CN ￥ 500)
