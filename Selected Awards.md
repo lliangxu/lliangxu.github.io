@@ -7,7 +7,7 @@ title: Selected Awards
 
 Selected Awards
 --------------------
-- Anhui Province excellent doctoral dissertation, Anhui Province, 2023 (安徽省优秀博士论文)
+- Award of Anhui Province Excellent Doctoral Dissertation, Anhui Province, 2023 (安徽省优秀博士论文)
 - Outstanding Graduate, USTC-CS, 2022
 - Excellent Award of President Scholarship, CAS, 2022 (中科院院长优秀奖，CN ￥ 5,000)
 - Outstanding Graduate, USTC, 2022 (CN ￥ 500)
@@ -15,10 +15,10 @@ Selected Awards
 - Shenzhen Stock Exchange Scholarship, 2020 (CN ￥ 12,000)
 - INFOCOM  Student Conference Award, 2020 (USD $ 400)
 - Graduate with Excellent Character and Learning in AHU, 2017 (CN ￥ 1,000)
-- Award of Excellent B.E. thesis in AHU, 2017
+- Award of Excellent B.E. Dissertation in AHU, 2017
 - First-class Scholarship for Academic Science and Technology in AHU, 2016 (CN ￥ 5,000, team)
-- Meritorious Winner of the MCM/ICM contest, 2016
+- Meritorious Winner of The MCM/ICM contest, 2016
 - AHU Merit Student, 2016 
 - National Encouragement Scholarship, 2014/2015/2016 (CN ￥ 5,000)
 - Scholarship for Group Study, 2015 (CN ￥ 800)
-- Second Prize of the Challenge Cup in AHU, 2014 (CN ￥ 5,000,  team)
+- Second Prize of The Challenge Cup in AHU, 2014 (CN ￥ 5,000,  team)
