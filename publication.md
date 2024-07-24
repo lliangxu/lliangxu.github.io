@@ -7,6 +7,9 @@ title: Publication
 Publications
 ----------
 
+10000. **Fast Acceleration Strategies For XOR-Based Erasure Codes.** <br>
+   Wei Wang, Min Lyu, Tianyang Niu, Qiliang Li, **Liangliang Xu**, and Yinlong Xu. <br>
+   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems accepted.
 10000. **Inference without Interference: Disaggregate LLM Inference for Mixed Downstream Workloads.** <br>
    Cunchen Hu, Heyang Huang, **Liangliang Xu**, Xusheng Chen, Jiang Xu, Shuang Chen, Hao Feng, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun and Yizhou Shan.  <br>
    arXiv preprint arXiv:2401.11181.
