@@ -9,7 +9,6 @@ Publications
 10000. **Towards Efficient Repair for Wide-Stripe Erasure Coding with High Reliability.** <br>
    Wei Wang, Zhipeng Li, Min Lyu, **Liangliang Xu** and Yinlong Xu. <br>
    IEEE Transactions on Reliability accepted.
-
 10000. **Fast Acceleration Strategies For XOR-Based Erasure Codes.** <br>
    Wei Wang, Min Lyu, Tianyang Niu, Qiliang Li, **Liangliang Xu** and Yinlong Xu. <br>
    IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems accepted.
