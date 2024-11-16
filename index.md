@@ -15,12 +15,3 @@ His research interests include designing and building dependable techniques (the
 
 
 
-<!-- Skills
---------------------
-
-- **Programming Languages:** C/C++; Java; Matlab; Linux Shell; Python.
-- **Distributed systems:** HDFS; Crail; Ceph; ZooKeeper.
-
-Services
---------------------
-- Shadow PC at EuroSys 2023. -->
