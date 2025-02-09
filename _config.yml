@@ -46,8 +46,8 @@ links:
     url: /education/
   # - title: Work Experience
   #   url: /work/
-  - title: Selected Projects
-    url: /project/
+  # - title: Selected Projects
+    # url: /project/
   - title: Publication
     url: /publication/
   - title: Talks
