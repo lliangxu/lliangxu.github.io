@@ -45,6 +45,8 @@ Publications
 10000. **D<sup>3</sup>: Deterministic Data Distribution for Efficient Data Reconstruction in Erasure-Coded Distributed Storage Systems.** <br> 
    Zhipeng Li, Min Lv, Yinlong Xu, Yongkun Li and **Liangliang Xu**. <br>
    The 33rd IEEE International Parallel & Distributed Processing Symposium (IPDPS 2019).
+
+2017
 10000. **A Note on One Weight and Two Weight Projective Z<sub>4</sub>-codes.**   <br>
    Minjia Shi, **Liangliang Xu**, and Gang Yang. <br>
    IEEE Transactions on Information Theory (TIT 2017), 63.1: 177-182. 
