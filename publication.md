@@ -4,10 +4,10 @@ permalink: /publication/index.html
 title: Publication
 ---
 
-Publications
+Publications (\*: corresponding, #: equal contribution)
 ----------
 10000. **An MDS Code Construction for Optimal Update and Efficient Repair with Linear Sub-Packetization Level and Small Field Size.** <br>
-   Yuan Zeng, Min Lyu\*, **Liangliang Xu**\*, Zhipeng Li and Yinlong Xu.\\. <br>
+   Yuan Zeng, Min Lyu\*, **Liangliang Xu**\*, Zhipeng Li and Yinlong Xu. <br>
    IEEE Transactions on Reliability (TR 2025).
 10000. **Towards Efficient Repair for Wide-Stripe Erasure Coding with High Reliability.** <br>
    Wei Wang, Zhipeng Li, Min Lyu, **Liangliang Xu** and Yinlong Xu. <br>
@@ -22,7 +22,7 @@ Publications
    Qiliang Li, Min Lyu, **Liangliang Xu** and Yinlong Xu. <br>
    Journal of Parallel and Distributed Computing 104854 (JPDC 2024).
 10000. **Enabling Efficient Erasure Coding in Disaggregated Memory Systems.** <br>
-   Qiliang Li#, **Liangliang Xu**#, Yongkun Li, Min Lyu,  Wei Wang, Pengfei Zuo and Yinlong Xu.  (#equal contribution) <br>
+   Qiliang Li#, **Liangliang Xu**#, Yongkun Li, Min Lyu,  Wei Wang, Pengfei Zuo and Yinlong Xu.<br>
    IEEE Transactions on Parallel and Distributed Systems (TPDS 2024), 35.01: 154-168.
 10000. **Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers.** <br>
    Cunchen Hu, Chenxi Wang, Sa Wang, Ninghui Sun, Yungang Bao, Jieru Zhao, Sanidhya Kashyap, Xiaoyang Deng, Pengfei Zuo, Rongfeng He, Xushen Chen, **Liangliang Xu**, Qin Zhang, Hao Feng, Yizhou Shan. <br>
