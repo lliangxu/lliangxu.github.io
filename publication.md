@@ -6,7 +6,6 @@ title: Publication
 
 Publications (\*: corresponding, #: equal contribution)
 ----------
-<font size=5>
 10000. **An MDS Code Construction for Optimal Update and Efficient Repair with Linear Sub-Packetization Level and Small Field Size.** <br>
    Yuan Zeng, Min Lyu\*, **Liangliang Xu**\*, Zhipeng Li and Yinlong Xu. <br>
    Accepted to IEEE Transactions on Reliability (**TR**).
@@ -52,7 +51,6 @@ Publications (\*: corresponding, #: equal contribution)
 10000. **A Note on One Weight and Two Weight Projective Z<sub>4</sub>-codes.**   <br>
    Minjia Shi, **Liangliang Xu**, and Gang Yang. <br>
    IEEE Transactions on Information Theory (**TIT 2017**), 63.1: 177-182. (**CCF A**)
-</font>
 
 
 
