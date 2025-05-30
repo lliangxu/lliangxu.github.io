@@ -6,6 +6,9 @@ title: Publication
 
 Publications (\*: corresponding, #: equal contribution)
 ----------
+10000. **MetaEC: An Efficient and Resilient Erasure-coded KV Store on Disaggregated Memory.** <br>
+   Qiliang Li, Min Lyu*, Tian Liu, \textbf{Liangliang Xu*}, Wei Wang and Yinlong Xu.  <br>
+   Accepted to ACM Transactions on Architecture and Code Optimization (**TACO**). (**CCF A**)
 10000. **An MDS Code Construction for Optimal Update and Efficient Repair with Linear Sub-Packetization Level and Small Field Size.** <br>
    Yuan Zeng, Min Lyu\*, **Liangliang Xu**\*, Zhipeng Li and Yinlong Xu. <br>
    Accepted to IEEE Transactions on Reliability (**TR**).
