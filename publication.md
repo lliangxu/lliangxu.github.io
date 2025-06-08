@@ -15,7 +15,7 @@ Publications (\*: corresponding, #: equal contribution)
 10000. **Towards Efficient Repair for Wide-Stripe Erasure Coding with High Reliability.** <br>
    Wei Wang, Zhipeng Li, Min Lyu, **Liangliang Xu** and Yinlong Xu. <br>
    Accepted to IEEE Transactions on Reliability (**TR**).
-10000. **Inference without Interference: Disaggregate LLM Inference for Mixed Downstream Workloads.** <br>
+10000. **ShuffleInfer: Disaggregate LLM Inference for Mixed Downstream Workloads.** <br>
    Cunchen Hu, Heyang Huang, **Liangliang Xu**, Xusheng Chen, Jiang Xu, Shuang Chen, Hao Feng, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun and Yizhou Shan.  <br>
    Accepted to ACM Transactions on Architecture and Code Optimization (**TACO**). (**CCF A**)
 10000. **Fast Acceleration Strategies For XOR-Based Erasure Codes.** <br>
