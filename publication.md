@@ -6,18 +6,21 @@ title: Publication
 
 Publications (\*: corresponding, #: equal contribution)
 ----------
+10000. **Towards Fast Erasure Coding at Register Efficiency.** <br>
+   Wei Wang, Yongkun Li, Min Lyu, Tianyang Niu, **Liangliang Xu**, Qiliang Li and Yinlong Xu.  <br>
+   Accepted to ACM Transactions on Architecture and Code Optimization (**TC**). (**CCF A**)
 10000. **MetaEC: An Efficient and Resilient Erasure-coded KV Store on Disaggregated Memory.** <br>
    Qiliang Li, Min Lyu\*, Tian Liu, **Liangliang Xu**\*, Wei Wang and Yinlong Xu.  <br>
-   Accepted to ACM Transactions on Architecture and Code Optimization (**TACO**). (**CCF A**)
+   ACM Transactions on Architecture and Code Optimization (**TACO 2025**), 22.3, 1-26. (**CCF A**)
 10000. **An MDS Code Construction for Optimal Update and Efficient Repair with Linear Sub-Packetization Level and Small Field Size.** <br>
    Yuan Zeng, Min Lyu\*, **Liangliang Xu**\*, Zhipeng Li and Yinlong Xu. <br>
-   Accepted to IEEE Transactions on Reliability (**TR**).
+   IEEE Transactions on Reliability (**TR 2025**), 74.4, 5390-5401.
 10000. **Towards Efficient Repair for Wide-Stripe Erasure Coding with High Reliability.** <br>
    Wei Wang, Zhipeng Li, Min Lyu, **Liangliang Xu** and Yinlong Xu. <br>
-   Accepted to IEEE Transactions on Reliability (**TR**).
+   IEEE Transactions on Reliability (**TR 2025**), 74.3, 3657-3670.
 10000. **ShuffleInfer: Disaggregate LLM Inference for Mixed Downstream Workloads.** <br>
    Cunchen Hu, Heyang Huang, **Liangliang Xu**, Xusheng Chen, Jiang Xu, Shuang Chen, Hao Feng, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun and Yizhou Shan.  <br>
-   Accepted to ACM Transactions on Architecture and Code Optimization (**TACO**). (**CCF A**)
+   ACM Transactions on Architecture and Code Optimization (**TACO 2025**), 22.2, 1-24. (**CCF A**)
 10000. **Fast Acceleration Strategies For XOR-Based Erasure Codes.** <br>
    Wei Wang, Min Lyu, Tianyang Niu, Qiliang Li, **Liangliang Xu** and Yinlong Xu. <br>
    IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD 2025**), 44.01:331-344. (**CCF A**)
