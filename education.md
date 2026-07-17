@@ -13,7 +13,7 @@ title: Experience
 
 ## Work Experience
 ----------
-- *2024.04 - now*:  **Associate Professor - The Institute of Mathematics and Interdisciplinary Sciences, Xidian University**
+- *2024.04 - now*:  **Associate Professor - Info X, Xidian University**
 - *2022.08 - 2024.04*:  **Research Scientist - Huawei Cloud**
 - *2020.10 - 2021.01*: **Software Engineer Intern - Huawei CloudBU**
 
