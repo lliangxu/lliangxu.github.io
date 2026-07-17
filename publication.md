@@ -8,7 +8,7 @@ Publications (\*: corresponding, #: equal contribution)
 ----------
 10000. **DdlRT: A deterministic data layout for efficient redundancy transitioning in erasure-coded systems.** <br>
    Xiaotong Geng, **Liangliang Xu**\*, Haoqi Duan, Tingting Chen, and Cunchen Hu..  <br>
-   The 55th International Conference on Parallel Processing (ICPP 2026, AR: 117/509=23%). (**CCF B**)
+   The 55th International Conference on Parallel Processing (**ICPP 2026**, AR: 117/509=23%). (**CCF B**)
 10000. **Towards Fast Erasure Coding at Register Efficiency.** <br>
    Wei Wang, Yongkun Li, Min Lyu, Tianyang Niu, **Liangliang Xu**, Qiliang Li and Yinlong Xu.  <br>
    Accepted to IEEE Transactions on Computers (**TC 2026**), 75.6, 2212-2223. (**CCF A**)
