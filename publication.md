@@ -9,7 +9,7 @@ Publications (\*: corresponding, #: equal contribution)
 10000. **CheckCode: An Erasure Code Tailored to LLM Training Failures for Fast Checkpoint Recovery.** <br>
    Cunchen Hu, **Liangliang Xu**\*, Fengming Tang, Minglu Liu, Yiduo Wang, Fu Yu, Wenda Tang, and Jie Wu.  <br>
    The 44th IEEE International Conference on Computer Design (**ICCD 2026**, AR: 26%). (**CCF B**)
-10000. **DdlRT: A deterministic data layout for efficient redundancy transitioning in erasure-coded systems.** <br>
+10000. **DdlRT: A Deterministic Data Layout for Efficient Redundancy Transitioning in Erasure-coded Systems.** <br>
    Xiaotong Geng, Haoqi Duan, **Liangliang Xu**\*, Tingting Chen, and Cunchen Hu..  <br>
    The 55th International Conference on Parallel Processing (**ICPP 2026**, AR: 117/509=23%). (**CCF B**)
 10000. **Towards Fast Erasure Coding at Register Efficiency.** <br>
