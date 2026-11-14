@@ -4,8 +4,14 @@ permalink: /publication/index.html
 title: Publication
 ---
 
-Publications (\*: corresponding, #: equal contribution)
+Publications (\*: corresponding)
 ----------
+10000. **Efficient Data Striping on Wide Locally Recoverable Codes for Reliable Storage Systems.** <br>
+   Fengming Tang, **Liangliang Xu**\*, Qian Chen, Yifei Ge, Cunchen Hu, Min Lyu, and Zilong Wang.  <br>
+   IEEE Transactions on Parallel and Distributed Systems (**TPDS 2027**). (**CCF A**)
+10000. **EmLLM: SLO-Aware Energy Scheduling for LLM Serving on Heterogeneous Mobile SoCs.** <br>
+   CZiwen Pang, **Liangliang Xu**\*, Yongkun Li*, Zhen Huang, Cunchen Hu, and Yinlong Xu.  <br>
+   The 33rd IEEE International Symposium on High-Performance Computer Architecture (**HPCA 2027**, AR: 17.9%). (**CCF A**)
 10000. **CheckCode: An Erasure Code Tailored to LLM Training Failures for Fast Checkpoint Recovery.** <br>
    Cunchen Hu, **Liangliang Xu**\*, Fengming Tang, Minglu Liu, Yiduo Wang, Fu Yu, Wenda Tang, and Jie Wu.  <br>
    The 44th IEEE International Conference on Computer Design (**ICCD 2026**, AR: 26%). (**CCF B**)
@@ -35,7 +41,7 @@ Publications (\*: corresponding, #: equal contribution)
    Journal of Parallel and Distributed Computing 104854 (**JPDC 2024**). (**CCF B**)
 10000. **Enabling Efficient Erasure Coding in Disaggregated Memory Systems.** <br>
    Qiliang Li#, **Liangliang Xu**#, Yongkun Li, Min Lyu,  Wei Wang, Pengfei Zuo and Yinlong Xu.<br>
-   IEEE Transactions on Parallel and Distributed Systems (**TPDS 2024**), 35.01: 154-168. (**CCF A**)
+   IEEE Transactions on Parallel and Distributed Systems (**TPDS 2024**), 35.01: 154-168. (#: equal contribution, **CCF A**)
 10000. **Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers.** <br>
    Cunchen Hu, Chenxi Wang, Sa Wang, Ninghui Sun, Yungang Bao, Jieru Zhao, Sanidhya Kashyap, Xiaoyang Deng, Pengfei Zuo, Rongfeng He, Xushen Chen, **Liangliang Xu**, Qin Zhang, Hao Feng, Yizhou Shan. <br>
    The 19th Workshop on Hot Topics in Operating Systems (**HotOS 2023**). (**CCF B**)
