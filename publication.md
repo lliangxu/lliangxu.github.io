@@ -4,16 +4,16 @@ permalink: /publication/index.html
 title: Publication
 ---
 
-Publications (\*: corresponding)
+Publications (\*: corresponding author)
 ----------
 10000. **Efficient Data Striping on Wide Locally Recoverable Codes for Reliable Storage Systems.** <br>
-   Fengming Tang, **Liangliang Xu**\*, Qian Chen, Yifei Ge, Cunchen Hu, Min Lyu, and Zilong Wang.  <br>
+   Fengming Tang, **Liangliang Xu\***, Qian Chen, Yifei Ge, Cunchen Hu, Min Lyu, and Zilong Wang.  <br>
    IEEE Transactions on Parallel and Distributed Systems (**TPDS 2027**). (**CCF A**)
 10000. **EmLLM: SLO-Aware Energy Scheduling for LLM Serving on Heterogeneous Mobile SoCs.** <br>
-   Ziwen Pang, **Liangliang Xu**\*, Yongkun Li*, Zhen Huang, Cunchen Hu, and Yinlong Xu.  <br>
+   Ziwen Pang, **Liangliang Xu\***, Yongkun Li*, Zhen Huang, Cunchen Hu, and Yinlong Xu.  <br>
    The 33rd IEEE International Symposium on High-Performance Computer Architecture (**HPCA 2027**, AR: 17.9%). (**CCF A**)
 10000. **CheckCode: An Erasure Code Tailored to LLM Training Failures for Fast Checkpoint Recovery.** <br>
-   Cunchen Hu, **Liangliang Xu**\*, Fengming Tang, Minglu Liu, Yiduo Wang, Fu Yu, Wenda Tang, and Jie Wu.  <br>
+   Cunchen Hu, **Liangliang Xu\***, Fengming Tang, Minglu Liu, Yiduo Wang, Fu Yu, Wenda Tang, and Jie Wu.  <br>
    The 44th IEEE International Conference on Computer Design (**ICCD 2026**, AR: 26%). (**CCF B**)
 10000. **DdlRT: A Deterministic Data Layout for Efficient Redundancy Transitioning in Erasure-coded Systems.** <br>
    Xiaotong Geng, Haoqi Duan, **Liangliang Xu**\*, Tingting Chen, and Cunchen Hu..  <br>
@@ -22,10 +22,10 @@ Publications (\*: corresponding)
    Wei Wang, Yongkun Li, Min Lyu, Tianyang Niu, **Liangliang Xu**, Qiliang Li and Yinlong Xu.  <br>
    IEEE Transactions on Computers (**TC 2026**), 75.6, 2212-2223. (**CCF A**)
 10000. **MetaEC: An Efficient and Resilient Erasure-coded KV Store on Disaggregated Memory.** <br>
-   Qiliang Li, Min Lyu\*, Tian Liu, **Liangliang Xu**\*, Wei Wang and Yinlong Xu.  <br>
+   Qiliang Li, Min Lyu\*, Tian Liu, **Liangliang Xu\***, Wei Wang and Yinlong Xu.  <br>
    ACM Transactions on Architecture and Code Optimization (**TACO 2025**), 22.3, 1-26. (**CCF A**)
 10000. **An MDS Code Construction for Optimal Update and Efficient Repair with Linear Sub-Packetization Level and Small Field Size.** <br>
-   Yuan Zeng, Min Lyu\*, **Liangliang Xu**\*, Zhipeng Li and Yinlong Xu. <br>
+   Yuan Zeng, Min Lyu\*, **Liangliang Xu\***, Zhipeng Li and Yinlong Xu. <br>
    IEEE Transactions on Reliability (**TR 2025**), 74.4, 5390-5401.
 10000. **Towards Efficient Repair for Wide-Stripe Erasure Coding with High Reliability.** <br>
    Wei Wang, Zhipeng Li, Min Lyu, **Liangliang Xu** and Yinlong Xu. <br>
