@@ -19,6 +19,7 @@ title: Experience
 
 ## Services
 ----------
+- Session Chair at ICCD 2026 (Session 3B: AI Inference and Accelerator Systems).
 - Shadow PC at EuroSys 2023.
 - Reviewer at IEEE Transactions on Cloud Computing.
 - Reviewer at IEEE Transactions on Computers.
