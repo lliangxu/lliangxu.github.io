@@ -10,7 +10,7 @@ Publications (\*: corresponding)
    Fengming Tang, **Liangliang Xu**\*, Qian Chen, Yifei Ge, Cunchen Hu, Min Lyu, and Zilong Wang.  <br>
    IEEE Transactions on Parallel and Distributed Systems (**TPDS 2027**). (**CCF A**)
 10000. **EmLLM: SLO-Aware Energy Scheduling for LLM Serving on Heterogeneous Mobile SoCs.** <br>
-   CZiwen Pang, **Liangliang Xu**\*, Yongkun Li*, Zhen Huang, Cunchen Hu, and Yinlong Xu.  <br>
+   Ziwen Pang, **Liangliang Xu**\*, Yongkun Li*, Zhen Huang, Cunchen Hu, and Yinlong Xu.  <br>
    The 33rd IEEE International Symposium on High-Performance Computer Architecture (**HPCA 2027**, AR: 17.9%). (**CCF A**)
 10000. **CheckCode: An Erasure Code Tailored to LLM Training Failures for Fast Checkpoint Recovery.** <br>
    Cunchen Hu, **Liangliang Xu**\*, Fengming Tang, Minglu Liu, Yiduo Wang, Fu Yu, Wenda Tang, and Jie Wu.  <br>
